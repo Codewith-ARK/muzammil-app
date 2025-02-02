@@ -3,7 +3,7 @@ import React from 'react'
 export default function Sidebar() {
   return (
     <div id='sidebar' className='fixed h-screen py-10 p-20 w-fit bg-gradient-to-b from-blue-600 to-green-600 flex-col gap-3'>
-      <h1 className='text-xl font-bold text-white'>Solution.com</h1>
+      <h1 className='mb-6 text-xl font-bold text-white'>Solution.com</h1>
       <div role="tablist" className="tabs tabs-bordered font-semibold">
         <a role="tab" className="text-white tab">Basic</a>
         <a role="tab" className="text-white tab tab-active">Advanced</a>

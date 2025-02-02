@@ -1,4 +1,4 @@
-import Sidebar from '@/Components/Sidebar'
+import Sidebar from '@/components/Sidebar'
 import React from 'react'
 import { FiAward, FiMessageSquare, FiSearch, FiUser, FiPhone, FiMic } from "react-icons/fi";
 
